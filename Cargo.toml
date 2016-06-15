@@ -1,0 +1,6 @@
+[package]
+name = "gitbot"
+version = "0.1.0"
+authors = ["Alec Snyder <linuxbash8@gmail.com>"]
+
+[dependencies]
