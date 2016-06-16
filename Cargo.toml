@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Alec Snyder <linuxbash8@gmail.com>"]
 
 [dependencies]
+oauth2 = "^0.1.10"
+curl = "^0.2.0"
